@@ -1,6 +1,6 @@
 {
   "name": "roliveo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roliveo/roliveo"
+    "url": "https://github.com/roliveo/roliveo.git"
   },
   "keywords": [],
   "author": "",
